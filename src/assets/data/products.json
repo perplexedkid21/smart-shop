@@ -1,0 +1,234 @@
+[
+  {
+    "id": "ss-1001",
+    "name": "Nebula Wireless Earbuds",
+    "category": "Electronics",
+    "price": 79.99,
+    "rating": 4.6,
+    "inventory": 42,
+    "featured": true,
+    "description": "Crystal-clear audio with low-latency mode. Built for workouts, commutes, and everything in between.",
+    "images": [
+      "https://placehold.co/1200x1200/png?text=Nebula+Earbuds",
+      "https://placehold.co/1200x1200/png?text=Charging+Case",
+      "https://placehold.co/1200x1200/png?text=Low-Latency+Mode"
+    ],
+    "variants": {
+      "colors": ["Midnight Black", "Arctic White", "Violet Pulse"],
+      "sizes": []
+    },
+    "reviews": [
+      {
+        "id": "r1",
+        "user": "Aarav",
+        "rating": 5,
+        "text": "The bass is surprisingly punchy. Mic quality is also solid.",
+        "date": "2026-02-14"
+      },
+      {
+        "id": "r2",
+        "user": "Maya",
+        "rating": 4,
+        "text": "Comfortable fit and stable connection. Wish the app had more EQ presets.",
+        "date": "2026-01-27"
+      }
+    ]
+  },
+  {
+    "id": "ss-1002",
+    "name": "AeroSmart Fitness Watch",
+    "category": "Electronics",
+    "price": 129.5,
+    "rating": 4.4,
+    "inventory": 28,
+    "featured": true,
+    "description": "Track workouts, sleep, and recovery with an always-on display and next-gen sensors.",
+    "images": [
+      "https://placehold.co/1200x1200/png?text=AeroSmart+Watch",
+      "https://placehold.co/1200x1200/png?text=Health+Metrics",
+      "https://placehold.co/1200x1200/png?text=All-Day+Battery"
+    ],
+    "variants": {
+      "colors": ["Graphite", "Rose Gold", "Ocean Blue"],
+      "sizes": ["S/M", "M/L"]
+    },
+    "reviews": [
+      {
+        "id": "r3",
+        "user": "Jordan",
+        "rating": 5,
+        "text": "Great battery life and the training insights are actually useful.",
+        "date": "2026-03-02"
+      }
+    ]
+  },
+  {
+    "id": "ss-2001",
+    "name": "CloudKnit Oversized Hoodie",
+    "category": "Fashion",
+    "price": 54.0,
+    "rating": 4.7,
+    "inventory": 63,
+    "featured": true,
+    "description": "Soft, breathable, and intentionally oversized. Designed to look great and feel even better.",
+    "images": [
+      "https://placehold.co/1200x1200/png?text=CloudKnit+Hoodie",
+      "https://placehold.co/1200x1200/png?text=Fabric+Closeup",
+      "https://placehold.co/1200x1200/png?text=Everyday+Style"
+    ],
+    "variants": {
+      "colors": ["Stone Grey", "Deep Charcoal", "Soft Cream"],
+      "sizes": ["XS", "S", "M", "L", "XL"]
+    },
+    "reviews": [
+      {
+        "id": "r4",
+        "user": "Samira",
+        "rating": 5,
+        "text": "This hoodie is a wardrobe staple. The fabric is thick but still comfy.",
+        "date": "2026-02-03"
+      }
+    ]
+  },
+  {
+    "id": "ss-2002",
+    "name": "Strata Performance Sneakers",
+    "category": "Fashion",
+    "price": 84.75,
+    "rating": 4.3,
+    "inventory": 35,
+    "featured": false,
+    "description": "Lightweight cushioning with responsive support. Perfect for daily miles and long days.",
+    "images": [
+      "https://placehold.co/1200x1200/png?text=Strata+Sneakers",
+      "https://placehold.co/1200x1200/png?text=Breathable+Upper",
+      "https://placehold.co/1200x1200/png?text=Grip+Sole"
+    ],
+    "variants": {
+      "colors": ["Pure White", "Volt Lime", "Steel Grey"],
+      "sizes": ["6", "7", "8", "9", "10", "11"]
+    },
+    "reviews": [
+      {
+        "id": "r5",
+        "user": "Ken",
+        "rating": 4,
+        "text": "Very comfortable. Sizing is slightly smaller than I expected.",
+        "date": "2026-01-19"
+      }
+    ]
+  },
+  {
+    "id": "ss-3001",
+    "name": "Lumen Smart Desk Lamp",
+    "category": "Home",
+    "price": 39.99,
+    "rating": 4.5,
+    "inventory": 74,
+    "featured": true,
+    "description": "Warm to cool lighting with touch controls. Includes timer presets for focus sessions.",
+    "images": [
+      "https://placehold.co/1200x1200/png?text=Lumen+Desk+Lamp",
+      "https://placehold.co/1200x1200/png?text=Touch+Controls",
+      "https://placehold.co/1200x1200/png?text=Focus+Timer"
+    ],
+    "variants": {
+      "colors": ["Matte Black", "Warm Walnut"],
+      "sizes": []
+    },
+    "reviews": [
+      {
+        "id": "r6",
+        "user": "Priya",
+        "rating": 5,
+        "text": "The lighting feels premium and the timer is super handy for studying.",
+        "date": "2026-02-22"
+      }
+    ]
+  },
+  {
+    "id": "ss-4001",
+    "name": "Atlas Minimal Planner (2026 Edition)",
+    "category": "Books",
+    "price": 18.5,
+    "rating": 4.2,
+    "inventory": 120,
+    "featured": false,
+    "description": "A clean weekly layout with productivity prompts to help you plan with clarity.",
+    "images": [
+      "https://placehold.co/1200x1200/png?text=Atlas+Planner",
+      "https://placehold.co/1200x1200/png?text=Weekly+Layout",
+      "https://placehold.co/1200x1200/png?text=Prompt+Pages"
+    ],
+    "variants": {
+      "colors": ["Navy Ink"],
+      "sizes": []
+    },
+    "reviews": [
+      {
+        "id": "r7",
+        "user": "Elena",
+        "rating": 4,
+        "text": "Perfect size and the pages lay flat nicely.",
+        "date": "2026-01-05"
+      }
+    ]
+  },
+  {
+    "id": "ss-5001",
+    "name": "Pulse Resistance Bands Set",
+    "category": "Sports",
+    "price": 24.99,
+    "rating": 4.8,
+    "inventory": 88,
+    "featured": true,
+    "description": "Multi-level resistance bands for full-body training at home or on the go.",
+    "images": [
+      "https://placehold.co/1200x1200/png?text=Pulse+Bands",
+      "https://placehold.co/1200x1200/png?text=Full+Body+Training",
+      "https://placehold.co/1200x1200/png?text=Travel+Case"
+    ],
+    "variants": {
+      "colors": ["Assorted"],
+      "sizes": []
+    },
+    "reviews": [
+      {
+        "id": "r8",
+        "user": "Rohan",
+        "rating": 5,
+        "text": "Good quality bands and the different resistance levels make progression easy.",
+        "date": "2026-02-10"
+      }
+    ]
+  },
+  {
+    "id": "ss-6001",
+    "name": "Radiant Face Serum",
+    "category": "Beauty",
+    "price": 29.0,
+    "rating": 4.1,
+    "inventory": 51,
+    "featured": false,
+    "description": "Lightweight serum that hydrates and helps brighten for a fresh, natural glow.",
+    "images": [
+      "https://placehold.co/1200x1200/png?text=Radiant+Serum",
+      "https://placehold.co/1200x1200/png?text=Hydration+Texture",
+      "https://placehold.co/1200x1200/png?text=Daily+Routine"
+    ],
+    "variants": {
+      "colors": ["Amber Glass"],
+      "sizes": []
+    },
+    "reviews": [
+      {
+        "id": "r9",
+        "user": "Nina",
+        "rating": 4,
+        "text": "Feels great and absorbs quickly. My skin looks healthier after a week.",
+        "date": "2026-02-26"
+      }
+    ]
+  }
+]
+
